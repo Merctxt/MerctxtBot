@@ -17,10 +17,7 @@
 
 3. **Ensure the following libraries are imported:**
 
-   - `torch`
-   - `pyautoit`
-   - `time`
-   - `PIL.ImageGrab`
+   - `pip install -r requirements.txt`
 
 4. **Run the main script:**
 
